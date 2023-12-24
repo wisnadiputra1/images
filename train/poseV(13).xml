@@ -1,0 +1,26 @@
+<annotation>
+	<folder>DataSetNew</folder>
+	<filename>poseV(13).jpg</filename>
+	<path>C:\DataSetNew\poseV(13).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3120</width>
+		<height>4208</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>poseV</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2194</xmin>
+			<ymin>1903</ymin>
+			<xmax>2694</xmax>
+			<ymax>2899</ymax>
+		</bndbox>
+	</object>
+</annotation>
